@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dengbowang.github.io</id>
+    <title>dengbowang</title>
+    <updated>2022-11-04T15:47:58.131Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dengbowang.github.io"/>
+    <link rel="self" href="https://dengbowang.github.io/atom.xml"/>
+    <subtitle>以自然之眼观物，以自然之舌言情。</subtitle>
+    <logo>https://dengbowang.github.io/images/avatar.png</logo>
+    <icon>https://dengbowang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, dengbowang</rights>
+    <entry>
+        <title type="html"><![CDATA[OBS录屏软件 我愿称之为最强 开源免费！]]></title>
+        <id>https://dengbowang.github.io/post/obs-lu-ping-ruan-jian-wo-yuan-cheng-zhi-wei-zui-qiang-kai-yuan-mian-fei/</id>
+        <link href="https://dengbowang.github.io/post/obs-lu-ping-ruan-jian-wo-yuan-cheng-zhi-wei-zui-qiang-kai-yuan-mian-fei/">
+        </link>
+        <updated>2022-11-04T10:28:24.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows11 资源管理器多标签栏]]></title>
+        <id>https://dengbowang.github.io/post/windows11-zi-yuan-guan-li-qi-duo-biao-qian-lan-lai/</id>
+        <link href="https://dengbowang.github.io/post/windows11-zi-yuan-guan-li-qi-duo-biao-qian-lan-lai/">
+        </link>
+        <updated>2022-11-04T10:11:57.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱心树]]></title>
+        <id>https://dengbowang.github.io/post/ai-xin-shu/</id>
+        <link href="https://dengbowang.github.io/post/ai-xin-shu/">
+        </link>
+        <updated>2022-11-04T04:58:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推荐几个好用的ppt网站]]></title>
+        <id>https://dengbowang.github.io/post/ppt/</id>
+        <link href="https://dengbowang.github.io/post/ppt/">
+        </link>
+        <updated>2022-11-04T04:58:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://dengbowang.github.io/post/hello-gridea/</id>
+        <link href="https://dengbowang.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
